@@ -27,7 +27,7 @@
 ### 安装
 1. 下载 [Releases](https://github.com/SRInternet/Pixiv-generator/releases) 中的最新版安装程序（.apk）
 2. 单击打开安装包，或使用软件包安装程序打开
-3. 为了避免部分手机报毒，建议_断网安装_（软件经360权威检测，不包含任何病毒或过度获取个人信息)
+3. 为了避免部分手机报毒，建议**断网安装**（软件经360权威检测，不包含任何病毒或过度获取个人信息)
 
 ### 如何反馈
 您可以在[这里](https://github.com/SRInternet/Pixiv-generator/issues/new)提交Issuse。您也可以通过我们的粉丝群 367798007 或邮箱 srinternet@qq.com 进行反馈。
