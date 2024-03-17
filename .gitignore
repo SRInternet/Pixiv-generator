@@ -6,7 +6,7 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
-/values/passwords.xml
+/app/src/main/res/values/passwords.xml
 .DS_Store
 /captures
 .externalNativeBuild
