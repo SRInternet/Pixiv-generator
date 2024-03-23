@@ -145,8 +145,8 @@ public class PixivGeneratorActivity extends AppCompatActivity {
         });
 
         ClarityConfig config = new ClarityConfig(
-                getResources().getString(R.string.cid), //"<ProjectId>"
-                null, // Default user id
+                "kz3hptw1lp",
+                "", // Default user id (using empty string)
                 LogLevel.None,
                 false, // Disallow metered network usage
                 true, // Enable web view capturing
@@ -154,7 +154,8 @@ public class PixivGeneratorActivity extends AppCompatActivity {
                 ApplicationFramework.Native,
                 Collections.emptyList(), // Allowed activities
                 Collections.emptyList(), // Disallowed activities (ignore activities)
-                false // Disable on low-end devices
+                false, // Disable on low-end devices
+                null
         );
 
         Clarity.initialize(getApplicationContext(), config);
