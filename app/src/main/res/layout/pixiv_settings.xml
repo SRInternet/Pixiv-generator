@@ -46,7 +46,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="20"
                     android:adjustViewBounds="true"
-                    android:src="@drawable/onlychirstmas"
                     android:visibility="visible"
                     tools:visibility="visible" />
 

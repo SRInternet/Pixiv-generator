@@ -2,6 +2,7 @@
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
     <string name="app_name">Pixiv 生成器</string>
+    <string name="ProviderS">com.pixiv.srinternet.fileprovider</string>
     <string-array name="options_array">
         <item>1</item>
         <item>2</item>
