@@ -1,5 +1,7 @@
 # 🎨Pixiv Generator
  在大陆，浏览 Pixiv.[^1]
+ 
+ 快速了解我们：[观看 Pixiv 生成器 发布前瞻](https://www.bilibili.com/video/BV1ZC411B7pQ/?spm_id_from=333.999.0.0)
 
 ## 详细信息
 
